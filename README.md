@@ -10,7 +10,7 @@ SMTLIB2形式のコードをオンラインで実行できるサイト
 - 最近のgit
 (Windows版のインストールがしたくて，うまくいかない人は連絡ください．)
 
-''' bash
+``` bash
 $ git clone https://github.com/fuurin/souzoukougaku.git
 $ python -m venv souzoukougaku
 $ cd souzoukougaku
